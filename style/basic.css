@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    color: rgb(76, 88, 102);
+}
+
+a{
+    text-decoration: none;
+    color: #4C5866;
+}
+
+ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.container{
+    margin: 0 auto;
+    max-width: 1440px;
+    padding: 0 10px;
+}
